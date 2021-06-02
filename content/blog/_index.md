@@ -2,6 +2,10 @@
 title: 'Piano Lessons '
 date: 2021-06-01T18:13:00+00:00
 description: This is meta description.
+menu:
+  main:
+    name: Piano Lessons
+    weight: 4
 
 ---
 # Piano Lessons
