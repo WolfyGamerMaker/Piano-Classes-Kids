@@ -3,28 +3,19 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Piano Lessons"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+[menu.main]
+name = "Portfolio"
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "anikamwolf@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "801-692-3896"
 theme_color = "#41228e"
 [params.contact]
 enable = true
