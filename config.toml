@@ -14,7 +14,7 @@ description = "This is meta description"
 email = "anikamwolf@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/screen-shot-2021-06-02-at-10-33-34-am.png"
+logo = "images/screen-shot-2021-06-02-at-10-33-34-am.png"
 phone = "801-692-3896"
 theme_color = "#97e5b5"
 [params.contact]
